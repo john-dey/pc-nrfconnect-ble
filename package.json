@@ -1,13 +1,13 @@
 {
-  "name": "pc-nrfconnect-ble",
-  "version": "2.3.2",
-  "description": "A natural first choice for Bluetooth Low Energy development",
-  "displayName": "Bluetooth Low Energy",
+  "name": "pc-nrfconnect-quip",
+  "version": "0.1.0",
+  "description": "quip's connect app",
+  "displayName": "quip Connect App",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NordicSemiconductor/pc-nrfconnect-ble.git"
+    "url": "https://github.com/john-dey/pc-nrfconnect-ble.git"
   },
-  "author": "Nordic Semiconductor ASA",
+  "author": "John Dey",
   "license": "SEE LICENSE IN LICENSE",
   "main": "dist/bundle.js",
   "engines": {
